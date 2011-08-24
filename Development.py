@@ -27,7 +27,7 @@ for row in devreader:
 			fill = "#F0F9E8"
 		
 		else:
-			fill = "#CCCCCC"
+			fill = "#A50F15"
 		print '.' + alpha2 + ' { fill: ' + fill + '}'
 	
 	i += 1
